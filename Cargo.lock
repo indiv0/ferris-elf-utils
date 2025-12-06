@@ -51,7 +51,7 @@ dependencies = [
 [[package]]
 name = "atoi_radix10"
 version = "0.0.1"
-source = "git+https://github.com/gilescope/atoi_radix10#8af3ae2b5e8a5774e95dbb4c692c848ecdaeb1af"
+source = "git+https://github.com/gilescope/atoi_radix10?rev=8af3ae2b5e8a5774e95dbb4c692c848ecdaeb1af#8af3ae2b5e8a5774e95dbb4c692c848ecdaeb1af"
 dependencies = [
  "getrandom 0.3.4",
 ]
