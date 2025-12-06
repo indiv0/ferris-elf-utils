@@ -1,2 +1,5 @@
 fmt:
-  nixfmt
+  treefmt
+
+build:
+  cargo build
